@@ -1,0 +1,11 @@
+{
+  "name": "slide-anti-captcha",
+  "version": "1.0.0",
+  "description": "Crawl a number of web pages using headless Chrome and Puppeteer",
+  "dependencies": {
+    "puppeteer": "1.18.1"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
